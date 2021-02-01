@@ -18,6 +18,7 @@ Before we start, let's get you up to par with the tools of the trade. [Check out
 - 5) Coffee Table D.I.Y. ~ Different Approaches to Texturing
 - 6) Seamless, Seamstress.
 - 7) Band Backpack Bakin' ~ Ambient Occlusion Map Baking
+- 8) More GUI
 - 8) Spunky Flunky ~ Cog Heads Rewritten
 
 #### Advanced

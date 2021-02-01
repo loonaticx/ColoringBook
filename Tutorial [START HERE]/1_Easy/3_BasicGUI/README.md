@@ -1,4 +1,4 @@
-# Assignment # 3: Getting into GUI
+# Assignment 3: Getting into GUI
 
 Well, how did your first two texture assignments go? Having fun with UV maps, eh? Well, let's take a short break from models and focus on another very important topic: GUI.
 

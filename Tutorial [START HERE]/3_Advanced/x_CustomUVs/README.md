@@ -1,4 +1,4 @@
-# Assignment # X: U-V-Independent!
+# Assignment X: U-V-Independent!
 
 Alright, so this next one *might* cause a small shiver down your spine, but don't panic -- we'll get through this one together!
 

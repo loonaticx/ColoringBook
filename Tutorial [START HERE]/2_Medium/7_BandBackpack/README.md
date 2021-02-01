@@ -27,6 +27,9 @@ https://download.autodesk.com/global/docs/mudbox2012/en_us/images/GUID-00ECA9E8-
 Blender 2.7 - https://www.youtube.com/watch?v=UbhiZGCAo0Q
 Blender 2.8+ - https://www.youtube.com/watch?v=9M6QBCLP04M
 
+---
+**Goal:** Retexture the band backpack to restore it's unseen glory. Consider looking at the AO map as a reference for shading. I recommend starting in a 1024x1024 canvas.
+
 # Sources
 
 https://download.autodesk.com/global/docs/mudbox2012/en_us/index.html?url=files/GUID-0DF909C0-A02A-4729-A285-F7E5F40BD71-219.htm,topicNumber=d28e30665
