@@ -4,7 +4,7 @@
   "maya2egg2016 tt_m_chr_avt_acc_hat_topHat.mb tophat.egg"
 }
 <Texture> tt_t_chr_avt_acc_hat_topHatBlack {
-  texture.png
+  "References/tt_t_chr_avt_acc_hat_topHatBlack.png"
   <Scalar> wrapu { repeat }
   <Scalar> wrapv { repeat }
   <Scalar> minfilter { linear_mipmap_linear }

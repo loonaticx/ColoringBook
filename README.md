@@ -18,6 +18,24 @@ If you are a beginner at texturing Toontown assets, I strongly recommend going t
 
 Each assignment will discuss a different topics and methods used to accomplish a texture. Some assignments may provide additional resources and references you can use to your advantage. 
 
+### Table of Contents ###
+
+#### Easy
+- 1) Gift to Give ~ Understanding UV Maps
+- 2) Hats, Eggs, and Pandas ~ Working with Panda3D BAM and EGG model files.
+- 3) Getting into GUI
+- 4) The Four Shovels ~ Digging for Consistency!
+
+#### Medium
+- 5) Coffee Table D.I.Y. ~ Different Approaches to Texturing
+- 6) Band Backpack Bakin' ~ Ambient Occlusion Map Baking
+
+
+#### Hard
+- x)U-V-Independent! ~ Creating UV Maps from Scratch
+- x)Freshly-baked Textures! ~ Baking Onto Different UV's
+
+
 ## External Links ##
 https://www.artstation.com/marketplace/p/G9xb/3d-coloring-book-food-fight-bundle
 
