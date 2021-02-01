@@ -1,4 +1,4 @@
-# Assignment 6 - Band Backpack Bakin'
+# Assignment 7 - Band Backpack Bakin'
 
 In this assignment, I will be introducing some really helpful utilities that may assist you in your texturing.
 
@@ -14,7 +14,7 @@ Toontown textures do not use any of the following:
 Again, Toontown shall *only* take advantage of the diffuse map.
 
 ### What are Ambient Occlusion maps?
-Ambient occlusion is a shading effect that calculates the attenuation and occlusion of light between surface details and other objects in the scene and then adds realistic shading to models. 
+Ambient occlusion is a shading effect that calculates the attenuation and occlusion of light between surface details and other objects in the scene and then adds realistic shading to models.
 https://download.autodesk.com/global/docs/mudbox2012/en_us/images/GUID-00ECA9E8-9740-41F0-89D0-519375A9C5F0-low.png
 
 ### Important Notes with Ambient Occlusion Baking
@@ -22,7 +22,7 @@ https://download.autodesk.com/global/docs/mudbox2012/en_us/images/GUID-00ECA9E8-
 
 - Consider these maps as a guidance tool, not an automation tool.
 
-### Baking Ambient Occlusion Maps in Blender 
+### Baking Ambient Occlusion Maps in Blender
 
 Blender 2.7 - https://www.youtube.com/watch?v=UbhiZGCAo0Q
 Blender 2.8+ - https://www.youtube.com/watch?v=9M6QBCLP04M

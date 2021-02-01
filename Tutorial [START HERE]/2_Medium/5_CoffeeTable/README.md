@@ -6,7 +6,7 @@ In this assignment, I want you to look back in the previous textures you've crea
 
 - Did I develop a personal method/procedure for texturing those models?
     - Ex: Did I paint over using a paintbrush tool, or did I use the pen tool to do most of the composition?
-    
+
 - Were there other approaches that I could've done?
 
 ## Different Approaches to Texturing
@@ -17,6 +17,8 @@ In those scenarios, you need to ensure that you have an alternate route ready fo
 
 For example, if you're like me and primairly use Photoshop as a preferred workspace, try experimenting around with texturing in GIMP, or even Paint Tool SAI.
 
-Or, if you're also like me and love using Photoshop's pen tool for most of the work, try texturing using brush tools and with a tablet instead. 
+Or, if you're also like me and love using Photoshop's pen tool for most of the work, try texturing using brush tools and with a tablet instead.
+
+---
 
 **Goal:** Texture the coffee table WITHOUT using any programs OR methods/approaches done prior.

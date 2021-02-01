@@ -1,7 +1,0 @@
-newmtl tt_t_chr_avt_acc_hat_topHatBlack
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd texture.png
-Ni 1.00
