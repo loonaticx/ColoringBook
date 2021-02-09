@@ -2,6 +2,9 @@
 
 Welcome, welcome! Please make yourself comfortable young Padawan, as we are about to venture into the world of texture art!
 
+This tutorial was written in mind for people who do not already have prior experience in texturing. If you have ever textured for other games before, then I suggest skipping
+several modules that you already have a good understanding of. Though, keep in mind that this series is tailored for practices and approaches to texturing for Toontown.
+
 Before we start, let's get you up to par with the tools of the trade. [Check out this wiki article](https://github.com/loonaticx/ColoringBook/wiki/Software-to-use) in which I go into detail about the different software programs to utilize.
 
 
