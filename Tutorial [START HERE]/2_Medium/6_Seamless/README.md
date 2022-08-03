@@ -16,6 +16,8 @@ If you use Photoshop, you can quickly check whether or not corners are seamless 
 
 Alternatively, you can create a new canvas and place down multiple instances of your texture. Stack them edge-to-edge to determine if there's a seam break.
 
+**New:** In Photoshop CC 2019 and newer, you can use the "Pattern Preview" mode by going to View>Pattern Preview.
+
 ---
 
 **Goal:** Create a seamless, repeatable texture for a new Toontown street. It can either be Toon or Cog themed, and/or for a new or already-existing playground.
